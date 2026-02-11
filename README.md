@@ -1,4 +1,4 @@
-# Ubuntu_backup_Project
+# Linux_backup_Project
 
 #Project Description
 This backup project automates daily backups of files in Linux using a shell script, tar, gzip, and cron. The source directory is compressed then stored in a backup directory and logs of each backup stored in logs directory.
